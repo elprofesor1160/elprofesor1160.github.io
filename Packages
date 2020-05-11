@@ -12,7 +12,7 @@ SHA256:
 Description: This is a sample new package. Firmware should be greater than 7.0
 Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://elprofesor1160.github.io/CathedraleXI/depictions/?p=com.elprofesor1160.newpackage
+Depiction: https://elprofesor1160.github.io/depictions/?p=com.elprofesor1160.newpackage
 
 Package: com.elprofesor1160.oldpackage
 Version: 1.0.0-1
@@ -28,7 +28,7 @@ SHA256:
 Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://elprofesor1160.github.io/CathedraleXI/depictions/?p=com.elprofesor1160.oldpackage
+Depiction: https://elprofesor1160.github.io/depictions/?p=com.elprofesor1160.oldpackage
 
 Package: com.elprofesor1160.deezelife
 Version: 0.5
@@ -44,5 +44,5 @@ SHA256: 3016ce53d186c9da08e7aa9293d168bf9b4ac23a3dad738af842eccb819f5ea6
 Description: Deezer fully premium features, unrestrict Music .... Requires Deezer app on Appstore/ Profitez de tout deezer en version premium
 Name: Deezelife
 Author: Julioverne
-Depiction: https://elprofesor1160.github.io/CathedraleXI/depictions/?p=com.elprofesor1160.deezelife
+Depiction: https://elprofesor1160.github.io/depictions/?p=com.elprofesor1160.deezelife
 
