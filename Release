@@ -1,0 +1,8 @@
+Origin: elprofesor1160.github.io
+Label: elprofesor1160
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Quelques tweaks hot

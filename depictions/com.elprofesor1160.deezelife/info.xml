@@ -1,0 +1,25 @@
+<package>
+	<id>com.elprofesor1160.deezelife</id>
+	<name>Deezelife</name>
+	<version>0.5</version>
+	<compatibility>
+		<firmware>
+			<maxiOS></maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+	<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Deezer fully premium features, unrestrict Music .... Requires Deezer app on Appstore/ Profitez de tout deezer en version premium</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Big release</change>
+	</changelog>
+	<links></links>
+</package>

@@ -1,0 +1,48 @@
+Package: com.elprofesor1160.newpackage
+Version: 2.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: /debs/com.elprofesor1160.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85A01C41AAAA72B48B08D9D0A67F3016
+SHA1:
+SHA256:
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: New Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://elprofesor1160.github.io/CathedraleXI/depictions/?p=com.elprofesor1160.newpackage
+
+Package: com.elprofesor1160.oldpackage
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: /debs/com.elprofesor1160.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+SHA1:
+SHA256:
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: Old Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://elprofesor1160.github.io/CathedraleXI/depictions/?p=com.elprofesor1160.oldpackage
+
+Package: com.elprofesor1160.deezelife
+Version: 0.5
+Section: Tweaks
+Maintainer: elprofesor1160.github.io
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: /debs/com.elprofesor1160.deezelife_0.5_iphoneos-arm.deb
+Size: 54114
+MD5sum: 60849d21cb58e52b3dd483111feea849
+SHA1: 854609b35b48d1c953d011a0d8539ed9cb16853b
+SHA256: 3016ce53d186c9da08e7aa9293d168bf9b4ac23a3dad738af842eccb819f5ea6
+Description: Deezer fully premium features, unrestrict Music .... Requires Deezer app on Appstore/ Profitez de tout deezer en version premium
+Name: Deezelife
+Author: Julioverne
+Depiction: https://elprofesor1160.github.io/CathedraleXI/depictions/?p=com.elprofesor1160.deezelife
+
